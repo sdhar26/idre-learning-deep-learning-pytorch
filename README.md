@@ -16,7 +16,6 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-2-mechanics-of-deep-learning)
 <!--
- - [Slides](https://huqy.github.io/idre_learning_machine_learning/2_ML_Classification.pdf)
  - [Feedback Survey](http://bit.ly/IDRE209)
 -->
 
@@ -25,8 +24,6 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-3-using-pytorch/)
 <!--
- - [Slides](https://huqy.github.io/idre_learning_machine_learning/3_DL_general.pdf)
- - Colab Demos: [Dogs-vs-Cats Challenge (Plain)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/3_dogs_vs_cats_plain.ipynb)
  - [Feedback Survey](http://bit.ly/IDRE210)
 -->
 
@@ -35,8 +32,6 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-4-convolutional-neural-networks/)
 <!--
- - [Slides](https://huqy.github.io/idre_learning_machine_learning/4_DL_adv.pdf)
- - Colab Demos: [Dogs-vs-Cats Challenge (Data Augmentation)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/4_dogs_vs_cats_DataAug.ipynb), [Dogs-vs-Cats Challenge (MobileNet)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/4_dogs_vs_cats_mobilenet.ipynb)
  - [Feedback Survey](http://bit.ly/IDRE211)
  -->
 
@@ -45,8 +40,6 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-5-transfer-learning/)
 <!--
- - [Slides](https://huqy.github.io/idre_learning_machine_learning/4_DL_adv.pdf)
- - Colab Demos: [Dogs-vs-Cats Challenge (Data Augmentation)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/4_dogs_vs_cats_DataAug.ipynb), [Dogs-vs-Cats Challenge (MobileNet)](https://colab.research.google.com/github/huqy/idre_learning_machine_learning/blob/master/4_dogs_vs_cats_mobilenet.ipynb)
  - [Feedback Survey](http://bit.ly/IDRE212)
  -->
 ---
