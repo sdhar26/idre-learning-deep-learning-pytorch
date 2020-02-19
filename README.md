@@ -7,7 +7,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
  - When: Feb 19, 2020 11am-12pm 
  - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
  - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-pytorch-1-introduction)
- - [Slides](https://huqy.github.io/learning-deep-learning-pytorch/1_DL_Intro.pdf)
+ - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/1_DL_Intro.pdf)
  - [Feedback Survey](http://bit.ly/IDRE208)
 
 
