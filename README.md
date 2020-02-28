@@ -31,6 +31,8 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - When: Feb 28, 2020 11am-12pm
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-4-convolutional-neural-networks/)
+- [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/4_DL_CNNs.pdf)
+- [Colab Demo](http://bit.ly/LDL_02)
 - [Feedback Survey](http://bit.ly/IDRE211)
 
 #### Practical Techniques
