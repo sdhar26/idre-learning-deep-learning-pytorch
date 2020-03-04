@@ -39,8 +39,12 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 - When: Mar 4, 2020 11am-12pm
 - Where: [UCLA Math Science Building](https://goo.gl/maps/ryeJd6sVpkCNkF5u6) #5628 (Visualization Portal)
 - [Register](https://idre.ucla.edu/calendar-event/learning-deep-learning-with-pytorch-5-transfer-learning/)
+- [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/5_DL_adv.pdf)
+- [Colab Demo](http://bit.ly/LDL_03)
 - [Feedback Survey](http://bit.ly/IDRE212)
 
 ---
+
+### Series Survey: [http://bit.ly/IDRE2012](http://bit.ly/IDRE2012)
 
 ### Instructor: [Qiyang Hu](mailto:huqy@idre.ucla.edu)
