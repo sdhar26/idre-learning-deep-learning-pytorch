@@ -63,7 +63,7 @@ No plans for video-recording the sessions for the current quarter yet.
 
 ### Series Survey: [bit.ly/2X2phyS](https://bit.ly/2X2phyS)
 
-### Welcome to join the support discussion at Slack: [bit.ly/join-LDL](https://bit.ly/join-LDL)
+### Welcome to join the support discussion at Slack: [bit.ly/Join-LDL](https://bit.ly/Join-LDL)
 
 ### Instructor: [Qiyang Hu](mailto:huqy@idre.ucla.edu)
 
