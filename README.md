@@ -8,8 +8,8 @@ No plans for video-recording the sessions for the current quarter yet.
 
  - When: April 16 2020 10am-11:30am 
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJwldeGhqjIjRcTpVYaf3ARBDZ0YeeyC2A) before joining
-<!--
  - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/1_DL_Intro.pdf)
+<!--
  - [Session Feedback Survey](http://bit.ly/IDRE208)
 -->
 
