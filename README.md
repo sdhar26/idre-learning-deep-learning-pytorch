@@ -35,9 +35,9 @@ No plans for video-recording the sessions for the current quarter yet.
 #### Convolutional Neural Networks
  - When: April 29, 2020 10am-11:30am
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/vpMod--srzMjG8SI5rW0ZmqXxsYzfdvwAw) before joining
-<!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/4_DL_CNNs.pdf)
 - [Colab Demo](http://bit.ly/LDL_02)
+<!--
 - [Session Feedback Survey](http://bit.ly/IDRE211)
 -->
 
