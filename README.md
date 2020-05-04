@@ -44,9 +44,9 @@ No plans for video-recording the sessions for the current quarter yet.
 #### Data Augmentation and Transfer Learning
  - When: May 4, 2020 10am-11:30am
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/vp0uf-qoqTgu9KYA3bKxxxCqqKKuZAVrMQ) before joining
-<!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/5_DL_adv.pdf)
 - [Colab Demo](http://bit.ly/LDL_03)
+<!--
 - [Session Feedback Survey](http://bit.ly/IDRE212)
 -->
 
