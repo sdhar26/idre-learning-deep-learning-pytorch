@@ -53,9 +53,9 @@ No plans for video-recording the sessions for the current quarter yet.
 #### Recurrent Neural Networks and LSTM 
  - When: May 7, 2020 10am-11:30am
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/upwucO6sqzkilcus1KzXvRS-gEGwaliW1g) before joining
-<!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/5_DL_adv.pdf)
-- [Colab Demo](http://bit.ly/LDL_03)
+- [Colab Demo](http://bit.ly/LDL_04)
+<!--
 - [Session Feedback Survey](http://bit.ly/IDRE212)
 -->
 
