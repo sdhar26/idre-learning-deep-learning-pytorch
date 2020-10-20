@@ -12,9 +12,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning Mechanics in Deep Learning
  - When: Oct 20, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJIvcuihqjojG9wcL86TLX5Zns1cE04OSpdy) before joining
-<!--
-- [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/2_DL_learningmech.pdf)
--->
+ - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/2_DL_learningmech.pdf)
 
 
 #### Knowing PyTorch 
