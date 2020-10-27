@@ -24,9 +24,9 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Convolutional Neural Networks
  - When: Oct 27, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJEvf-mgpjMiHtOgC7q7MzP1D76Nxo7079Oj) before joining
+- [Colab Demo](http://bit.ly/LDL_02)
 <!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/4_DL_CNNs.pdf)
-- [Colab Demo](http://bit.ly/LDL_02)
 -->
 
 #### Improving CNNs Performance
